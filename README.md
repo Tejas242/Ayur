@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Ayur (Team: Penguins of Madagascar)
+Team Members:
+1. Tejas Mahajan
+2. Animesh Yadav
+3. Shreyas Deshmukh
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
